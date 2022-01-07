@@ -8,6 +8,6 @@ If nothing happens when you click on the youtube-dl-GUI.jar file, you probably n
 You can run youtube-dl-GUI.jar with Java vesrion 1.8. Compiled binary file is located under bin directory.
 The operation of the GUI program itself will hopefully be self-explanatory.
 In the URL field paste (Ctrl-V) the address from YouTube and push "Get Info" button. youtube-dl program will collect info about video formats.
-For simplicity, option field lets choose format "Default". But the downloaded video may be slow - to big resolution
+For simplicity, in option field lets choose format "Default". But the downloaded video may be slow - too big resolution
 and vp9 codec requires faster PC. In this case, you should try with other options.
 Keep in mind, it's better to avoid av01 video format. Look for avc1 or vp9.
